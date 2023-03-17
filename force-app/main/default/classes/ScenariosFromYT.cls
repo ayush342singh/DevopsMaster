@@ -99,11 +99,13 @@ public class ScenariosFromYT {
     } 
 
     public static void beforedeletechange(List<Account> oldvalue){
-        
+        // Testing Devops
         // for(Account ac : oldvalue){
         //     if(ac.Active__c == 'Yes'){
         //         ac.adderror('You cannot delete an active Account');
         //     }
         // }
+
+
     } 
 }
